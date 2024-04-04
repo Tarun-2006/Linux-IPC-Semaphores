@@ -110,7 +110,8 @@ if(NUM_LOOPS>=10)    {
 
 ```
 ## OUTPUT
-![image](https://github.com/Shyamsujin/Linux-IPC-Semaphores/assets/144870449/f2438ccf-a416-4091-b338-66c4c5298e64)
+![image](https://github.com/Tarun-2006/Linux-IPC-Semaphores/assets/145584190/f2d639df-f74a-46d3-b968-459b6585fdb0)
+
 
 # RESULT:
 The program is executed successfully.
