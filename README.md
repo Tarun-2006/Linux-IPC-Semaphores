@@ -1,5 +1,5 @@
-## Name : SHYAM SUJIN U
-## Reg no : 212223040201
+## Name : Tarun S
+## Reg no : 212223040226
 # Linux-IPC-Semaphores
 Ex05-Linux IPC-Semaphores
 
